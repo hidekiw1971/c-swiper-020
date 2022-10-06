@@ -9,6 +9,3 @@
 
 - 2022/10/6 second commit
 - 2022/10/6 'thumbs: {swiper: xxx,},'で連携が取れるようになったけど、サムネイル側の'centeredSlides'が効かない。
-
-## reference site
-- https://www.webdesignleaves.com/pr/plugins/swiper_js.html
